@@ -13,4 +13,4 @@ Análisis comparativo entre La Libertad y el territorio nacional.
 - CEPLAN - Sub-índices de vulnerabilidad territorial 2013-2024
 
 ## Notebook
-`notebooks/Colab_Definitivo_Presentacion.ipynb` — pipeline completo: carga de datos, construcción del índice de vulnerabilidad (Alkire-Foster), entrenamiento y comparación de modelos (Regresión Logística vs. Random Forest), cómputo paralelo y análisis territorial.
+`Modelo de clasificación: vulnerable/ no vulnerable.ipynb` — pipeline completo: carga de datos, construcción del índice de vulnerabilidad (Alkire-Foster), entrenamiento y comparación de modelos (Regresión Logística vs. Random Forest), cómputo paralelo y análisis territorial.
